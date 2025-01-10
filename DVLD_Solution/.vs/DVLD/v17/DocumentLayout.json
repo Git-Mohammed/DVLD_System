@@ -1,0 +1,154 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld\\globalclasses\\clslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\globalclasses\\clslogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\login\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld\\globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\globalclasses\\clsglobal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld\\globalclasses\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\globalclasses\\clsutil.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0FFEA4C-5D63-4CB2-A948-1AF3903E34FF}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld_businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0FFEA4C-5D63-4CB2-A948-1AF3903E34FF}|DVLD_BusinessLayer\\DVLD_BusinessLayer.csproj|solutionrelative:dvld_businesslayer\\clsuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|e:\\myprojects\\dotnetfreamwork_windwosforms\\dvldsystem\\dvld_solution\\dvld\\applications\\driving international license\\frmmanagedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\applications\\driving international license\\frmmanagedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\dvld\\applications\\driving international license\\frmmanagedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5250A0D9-57CF-4CBD-A317-22FD01445926}|DVLD\\DVLD_PresentionLayer.csproj|solutionrelative:dvld\\applications\\driving international license\\frmmanagedia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsLogger.cs",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\GlobalClasses\\clsLogger.cs",
+              "RelativeDocumentMoniker": "DVLD\\GlobalClasses\\clsLogger.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\GlobalClasses\\clsLogger.cs",
+              "RelativeToolTip": "DVLD\\GlobalClasses\\clsLogger.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:40:33.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "clsUtil.cs",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\GlobalClasses\\clsUtil.cs",
+              "RelativeDocumentMoniker": "DVLD\\GlobalClasses\\clsUtil.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\GlobalClasses\\clsUtil.cs",
+              "RelativeToolTip": "DVLD\\GlobalClasses\\clsUtil.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAswBEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T15:16:26.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsUser.cs",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD_BusinessLayer\\clsUser.cs",
+              "RelativeDocumentMoniker": "DVLD_BusinessLayer\\clsUser.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD_BusinessLayer\\clsUser.cs",
+              "RelativeToolTip": "DVLD_BusinessLayer\\clsUser.cs",
+              "ViewState": "AQIAAIMAAAAAAAAAAAAAwIgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:52:23.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DVLD\\Login\\frmLogin.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Login\\frmLogin.cs",
+              "RelativeToolTip": "DVLD\\Login\\frmLogin.cs",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAwwG8AAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:46:15.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Login\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DVLD\\Login\\frmLogin.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Login\\frmLogin.cs [Design]",
+              "RelativeToolTip": "DVLD\\Login\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:46:13.742Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "clsGlobal.cs",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\GlobalClasses\\clsGlobal.cs",
+              "RelativeDocumentMoniker": "DVLD\\GlobalClasses\\clsGlobal.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\GlobalClasses\\clsGlobal.cs",
+              "RelativeToolTip": "DVLD\\GlobalClasses\\clsGlobal.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwGAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-07T14:40:19.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmManageDIA.cs",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Applications\\Driving International License\\frmManageDIA.cs",
+              "RelativeDocumentMoniker": "DVLD\\Applications\\Driving International License\\frmManageDIA.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Applications\\Driving International License\\frmManageDIA.cs",
+              "RelativeToolTip": "DVLD\\Applications\\Driving International License\\frmManageDIA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:44:55.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmManageDIA.cs [Design]",
+              "DocumentMoniker": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Applications\\Driving International License\\frmManageDIA.cs",
+              "RelativeDocumentMoniker": "DVLD\\Applications\\Driving International License\\frmManageDIA.cs",
+              "ToolTip": "E:\\MyProjects\\DotNetFreamwork_WindwosForms\\DVLDSystem\\DVLD_Solution\\DVLD\\Applications\\Driving International License\\frmManageDIA.cs [Design]",
+              "RelativeToolTip": "DVLD\\Applications\\Driving International License\\frmManageDIA.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T15:43:31.295Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
