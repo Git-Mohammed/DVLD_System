@@ -6,7 +6,7 @@ Follow these steps to install and set up the project:
 
 bash
 Clone the repository
-git clone https://github.com/username/dvld-desktop-application.git
+git clone https://github.com/Git-Mohammed/DVLD_System.git
 cd dvld-desktop-application
 
 Install dependencies
